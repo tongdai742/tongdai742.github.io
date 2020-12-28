@@ -3,6 +3,16 @@
   image: ../images/la-cover.jpg
   completed: true
 
+- title: arrivederci.
+  url: https://open.spotify.com/playlist/3c6Boh5dL3O4KcSqhz6ruW?si=R_Z9OZgZSl666JoQp1F--A
+  image: ../images/sd-cover.jpg
+  completed: true
+  
+- title: der augenstern.
+  url: https://open.spotify.com/playlist/11iu8L3NC4Y9KShSGdQoYv?si=JQJUyKYZSICUSp021F32-g
+  image: ../images/la-cover.jpg
+  completed: true
+
 # - title: arrivederci
 #   url: https://open.spotify.com/playlist/3c6Boh5dL3O4KcSqhz6ruW?si=R_Z9OZgZSl666JoQp1F--A
 #   image: ../images/sd-cover.jpg
