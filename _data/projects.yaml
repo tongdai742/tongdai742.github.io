@@ -1,17 +1,17 @@
-- title: Spotify
-  url: https://www.flickr.com/photos/182012161@N08/albums/72157709025055722
+- title: amour sans fin.
+  url: https://open.spotify.com/playlist/2l5X7DQcv8rrdTeHrWcpzv
   image: ../images/la-cover.jpg
   completed: true
 
-#- title: Spotify
-#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709024835592
-#   image: ../images/sd-cover.jpg
-#   completed: true
+- title: arrivederci
+   url: https://open.spotify.com/playlist/3c6Boh5dL3O4KcSqhz6ruW?si=R_Z9OZgZSl666JoQp1F--A
+   image: ../images/sd-cover.jpg
+   completed: true
 
-# - title: Nature
-#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709025014477
-#   image: ../images/nature-cover.jpg
-#   completed: true
+ - title: der augenstern
+   url: https://open.spotify.com/playlist/11iu8L3NC4Y9KShSGdQoYv?si=JQJUyKYZSICUSp021F32-g
+   image: ../images/nature-cover.jpg
+   completed: true
 
 # - title: Architecture
 #   url: https://www.flickr.com/photos/182012161@N08/albums/72157709025070417
