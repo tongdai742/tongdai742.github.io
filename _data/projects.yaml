@@ -1,20 +1,20 @@
 - title: Spotify
-#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709025055722
+  url: https://www.flickr.com/photos/182012161@N08/albums/72157709025055722
   image: ../images/la-cover.jpg
   completed: true
 
-- title: Spotify
-  url: https://www.flickr.com/photos/182012161@N08/albums/72157709024835592
-  image: ../images/sd-cover.jpg
-  completed: true
+#- title: Spotify
+#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709024835592
+#   image: ../images/sd-cover.jpg
+#   completed: true
 
-- title: Nature
-  url: https://www.flickr.com/photos/182012161@N08/albums/72157709025014477
-  image: ../images/nature-cover.jpg
-  completed: true
+# - title: Nature
+#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709025014477
+#   image: ../images/nature-cover.jpg
+#   completed: true
 
-- title: Architecture
-  url: https://www.flickr.com/photos/182012161@N08/albums/72157709025070417
-  image: ../images/architecture-cover.jpg
-  completed: true
+# - title: Architecture
+#   url: https://www.flickr.com/photos/182012161@N08/albums/72157709025070417
+#   image: ../images/architecture-cover.jpg
+#   completed: true
 
